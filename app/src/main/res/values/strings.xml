@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TPsMobile</string>
+    <string name="newtext">bonjour tout le monde</string>
+
+    <string name="hello">Hello World</string>
+    <string name="bonjour">Bonjour tout le monde</string>
+
+    <string name="button">UVSQ</string>
+
+    <string name="titre">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="ou">geo:48.782151,2.217187</string>
+
+</resources>
